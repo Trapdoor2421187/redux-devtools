@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.24.0",
-    "@types/lodash": "^4.14.202",
+    "@types/lodash": "^4.17.0",
     "react-base16-styling": "^0.9.1"
   },
   "devDependencies": {
@@ -62,11 +62,11 @@
     "@rollup/plugin-node-resolve": "^15.2.3",
     "@rollup/plugin-terser": "^0.4.4",
     "@types/jest": "^29.5.12",
-    "@types/node": "^20.11.25",
-    "@types/react": "^18.2.64",
+    "@types/node": "^20.11.27",
+    "@types/react": "^18.2.65",
     "@types/react-test-renderer": "^18.0.7",
-    "@typescript-eslint/eslint-plugin": "^7.1.1",
-    "@typescript-eslint/parser": "^7.1.1",
+    "@typescript-eslint/eslint-plugin": "^7.2.0",
+    "@typescript-eslint/parser": "^7.2.0",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-jest": "^27.9.0",
@@ -76,7 +76,7 @@
     "react": "^18.2.0",
     "react-test-renderer": "^18.2.0",
     "rimraf": "^5.0.5",
-    "rollup": "^4.12.1",
+    "rollup": "^4.13.0",
     "rollup-plugin-typescript2": "^0.36.0",
     "ts-jest": "^29.1.2",
     "tslib": "^2.6.2",
